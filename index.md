@@ -162,7 +162,7 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 
 Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 22 Avril :
 
-https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985
+[https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985](https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985)
 
 Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
 
@@ -217,11 +217,9 @@ Stage possible au sein d'un projet informatique de la DGFiP
 
 ## IV. Contact
 
-Des questions sur l’appel à projets ? Besoin d’informations complémentaires ? 
-
-Contactez-nous à : 
-
-[dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)
+> Des questions sur l’appel à projets ? Besoin d’informations complémentaires ? 
+> ✉️
+> **Contactez-nous à : [dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)**
 
 
 ## V. FAQ
