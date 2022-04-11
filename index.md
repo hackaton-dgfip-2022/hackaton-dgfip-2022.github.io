@@ -218,9 +218,8 @@ Stage possible au sein d'un projet informatique de la DGFiP
 ## IV. Contact
 
 > Des questions sur l’appel à projets ? Besoin d’informations complémentaires ? 
-> ✉️
+> 
 > **Contactez-nous à : [dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)**
-
 
 ## V. FAQ
 
