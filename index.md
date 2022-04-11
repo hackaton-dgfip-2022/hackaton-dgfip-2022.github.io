@@ -35,15 +35,15 @@ Cette solution portera sur l’un des sujets suivants :
 
 - Sujet 1 - à partir du jeu de données des **Coordonnées des Structures DGFiP** :
 
-***“La couverture du territoire par les structures DGFiP est-elle optimale et assure-t-elle un égal accès de tous au service public ?”***
+> *“La couverture du territoire par les structures DGFiP est-elle optimale et assure-t-elle un égal accès de tous au service public ?”*
 
 - Sujet 2 - à partir du jeu de données des **Parcelles des Personnes Morales** :
 
-***“La proportion d'entreprises propriétaires de leurs locaux sur un territoire est-elle un marqueur de bonne santé économique ?”***
+> *“La proportion d'entreprises propriétaires de leurs locaux sur un territoire est-elle un marqueur de bonne santé économique ?”*
 
-- Sujet Libre - à partir d’un jeu de données DGFiP ouvert **au choix**
+- *Sujet Libre* - à partir d’un jeu de données DGFiP ouvert **au choix**
 
-Les candidats peuvent s’ils le souhaitent composer leur propre sujet à partir de leur analyse des ressources à disposition.
+> Les candidats peuvent s’ils le souhaitent composer leur propre sujet à partir de leur analyse des ressources à disposition.
 
 Dans ce cas, ils devront également fournir une problématique sous la forme d’une question, à laquelle leur solution technique apportera une réponse, en se basant sur un jeu de données ouvert DGFiP au choix. 
 
@@ -58,22 +58,28 @@ ___
 L’ensemble des jeux de données ouverts de la DGFiP est disponible à [cette adresse](https://data.economie.gouv.fr/explore/?sort=modified&refine.publisher=DGFiP) 
 
 **- Coordonnées des structures DGFiP ( Sujet 1 )**
+
 Points d’accueil et services de la DGFiP sur l’ensemble du territoire
 
 **- Locaux et parcelles des personnes morales ( Sujet 2 )**
+
 Propriété des parcelles cadastrales des personnes morales et leur évolution
 
 **- Balances Comptables de l’ensemble des collectivités**
+
 Balances des Communes, Départements, Régions, EPCI et Syndicats
 
 **- Comptes individuels des collectivités**
+
 Comptabilité intégrale des collectivités utilisant la double écriture
 
 **- Demandes de valeurs foncières**
+
 Transactions immobilières intervenues sur le territoire au cours des 5 dernières années, 
 issues des actes notariés et déclarations cadastrales
 
 **- Service des retraites de l’État**
+
 Cube de données agrégées reprenant les nouvelles pensions de droit direct liquidées par le Service des Retraites de l’État
 
 ### D. Croisements avec d'autres sources de données ouvertes 
@@ -220,7 +226,4 @@ Contactez-nous à :
 
 ## V. FAQ
 
-À venir 
-
-
-
+À venir
