@@ -121,14 +121,14 @@ Les équipes Data de la DTNum travaillent sur les langages R et Python. Les part
 Les équipes devront restituer leurs productions dans un repository Github qui leur sera communiqué au lancement du concours. 
 Le dossier à remettre doit comporter les éléments suivants : 
 
-**- Solution technique
+**- Solution technique**
 
 Si le livrable des candidats consiste en une visualisation Tableau, la restitution sur Github devra faire figurer un lien vers le(s) dashboard(s) publique(s) produit(s) et comportant le tag #OpenDataDGFIP2022.
 
 Si le livrable des candidats contient du code R ou Python, l’ensemble des sources produites devront être déposées sur le repository Github de l’équipe.
 
 
-**- Document explicatif (PDF ou Vidéo)
+**- Document explicatif (PDF ou Vidéo)**
 
 Un document explicatif au format vidéo (maximum 3 minutes) ou PDF (maximum 20 pages) contenant a minima les éléments suivants: 
 
@@ -141,7 +141,7 @@ NB:  Cela est nécessaire dans le cadre du choix du sujet Libre. S’agissant de
 
 Ce document pourra être enrichi par tout élément ou réflexion que les participants jugent pertinents (Utilisateurs pressentis, cas d’usage identifiés, qualité de la donnée source,  etc…)
 
-**- Documentation technique (PDF ou Markdown)
+**- Documentation technique (PDF ou Markdown)**
 
 Une documentation technique au format PDF ou Markdown contenant a minima les éléments suivants :
   - Une présentation des choix techniques faits
