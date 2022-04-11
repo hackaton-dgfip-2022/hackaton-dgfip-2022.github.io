@@ -57,28 +57,34 @@ ___
 
 L’ensemble des jeux de données ouverts de la DGFiP est disponible à [cette adresse](https://data.economie.gouv.fr/explore/?sort=modified&refine.publisher=DGFiP) 
 
-**- Coordonnées des structures DGFiP ( Sujet 1 )**
+> ***Coordonnées des structures DGFiP ( Sujet 1 )***
 
+ 
 Points d’accueil et services de la DGFiP sur l’ensemble du territoire
 
-**- Locaux et parcelles des personnes morales ( Sujet 2 )**
+> ***Locaux et parcelles des personnes morales ( Sujet 2 )***
+
 
 Propriété des parcelles cadastrales des personnes morales et leur évolution
 
-**- Balances Comptables de l’ensemble des collectivités**
+> ***Balances Comptables de l’ensemble des collectivités***
+
 
 Balances des Communes, Départements, Régions, EPCI et Syndicats
 
-**- Comptes individuels des collectivités**
+> ***Comptes individuels des collectivités***
+
 
 Comptabilité intégrale des collectivités utilisant la double écriture
 
-**- Demandes de valeurs foncières**
+> ***Demandes de valeurs foncières***
+
 
 Transactions immobilières intervenues sur le territoire au cours des 5 dernières années, 
 issues des actes notariés et déclarations cadastrales
 
-**- Service des retraites de l’État**
+> ***Service des retraites de l’État***
+>
 
 Cube de données agrégées reprenant les nouvelles pensions de droit direct liquidées par le Service des Retraites de l’État
 
