@@ -209,15 +209,15 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 
 ### E. Récompenses
 
-> 🥇 ***1er prix : 3000€ pour l’équipe***
+> 🥇 **1er prix : 3000€ pour l’équipe**
 > 
 > Incubation possible du projet dans un service informatique de la DGFiP
 
-> 🥈 ***2ème prix : 1500€ pour l’équipe***
+> 🥈 **2ème prix : 1500€ pour l’équipe**
 > 
 > Stage possible au sein d'un projet informatique de la DGFiP
 
-> 🥉 ***3ème prix : 500€ pour l’équipe***
+> 🥉 **3ème prix : 500€ pour l’équipe**
 > 
 > Stage possible au sein d'un projet informatique de la DGFiP
 
