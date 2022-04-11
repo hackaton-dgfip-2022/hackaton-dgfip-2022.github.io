@@ -1,7 +1,7 @@
 ![Logo du hackaton](/docs/assets/images/banniere_hackaton_v4.jpg)
 Bonjour à tous 👋
 
-La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 22 avril au 20 mai 2022.
+La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 22 avril au 15 mai 2022.
 
 Les étudiants des meilleures écoles d’ingénieurs et universités françaises sont invités à concourir.
 
