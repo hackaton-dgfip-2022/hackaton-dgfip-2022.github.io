@@ -12,6 +12,9 @@ Ce document vous donne toutes les informations pratiques :
 - Conditions de participation
 - Récompenses : + de 4 000€, mise en relations avec des experts de la data…
 
+___
+
+
 ## I. Qui sommes-nous ?
 
 La DGFiP participe à la gestion des finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
@@ -21,6 +24,9 @@ Elle est placée sous la tutelle du ministère de l'Économie, des Finances et d
 La Délégation à la Transformation numérique (“DTNum”) mène la transformation numérique de la DGFiP. Une cinquantaine de personnes travaille au sein de trois pôles dédiés: Données (open data, datascience), Culture numérique, et Expérience utilisateur.
 
 Elle a été créée en 2021.
+
+___
+
 
 ## II. Appel à projets
 
@@ -134,14 +140,14 @@ Les équipes Data de la DTNum travaillent sur les langages R et Python. Les part
 Les équipes devront restituer leurs productions dans un repository Github qui leur sera communiqué au lancement du concours. 
 Le dossier à remettre doit comporter les éléments suivants : 
 
-**- Solution technique**
+   **- Solution technique**
 
 Si le livrable des candidats consiste en une visualisation Tableau, la restitution sur Github devra faire figurer un lien vers le(s) dashboard(s) publique(s) produit(s) et comportant le tag #OpenDataDGFIP2022.
 
 Si le livrable des candidats contient du code R ou Python, l’ensemble des sources produites devront être déposées sur le repository Github de l’équipe.
 
 
-**- Document explicatif (PDF ou Vidéo)**
+   **- Document explicatif (PDF ou Vidéo)**
 
 Un document explicatif au format vidéo (maximum 3 minutes) ou PDF (maximum 20 pages) contenant a minima les éléments suivants: 
 
@@ -154,7 +160,7 @@ NB:  Cela est nécessaire dans le cadre du choix du sujet Libre. S’agissant de
 
 Ce document pourra être enrichi par tout élément ou réflexion que les participants jugent pertinents (Utilisateurs pressentis, cas d’usage identifiés, qualité de la donnée source,  etc…)
 
-**- Documentation technique (PDF ou Markdown)**
+   **- Documentation technique (PDF ou Markdown)**
 
 Une documentation technique au format PDF ou Markdown contenant a minima les éléments suivants :
   - Une présentation des choix techniques faits
@@ -165,7 +171,7 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 
 À venir
 
-### B. Inscription
+### C. Inscription
 
 Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 22 Avril :
 
@@ -222,11 +228,19 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 > 
 > Stage possible au sein d'un projet informatique de la DGFiP
 
+
+___
+
+
 ## IV. Contact
 
 > Des questions sur l’appel à projets ? Besoin d’informations complémentaires ? 
 > 
 > **Contactez-nous à : [dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)**
+
+
+___
+
 
 ## V. FAQ
 
