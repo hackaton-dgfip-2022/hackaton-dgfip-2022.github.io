@@ -2,7 +2,7 @@
 
 ### Bonjour à tous 👋
 
-La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 22 avril au 15 mai 2022.
+La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 29 avril au 15 mai 2022.
 
 Les étudiants des meilleures écoles d’ingénieurs et universités françaises sont invités à concourir.
 
@@ -169,11 +169,14 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 
 ### B. Calendrier détaillé
 
-À venir
+- Inscriptions jusqu'au 29 Avril
+- Rendu des projets le 15 Mai
+- Délibérations du jury le 27 Mai
+- Restitution pour les lauréats au cour d'un événement OpenData à Bercy le 3 Juin 
 
 ### C. Inscription
 
-Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 22 Avril :
+Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 29 Avril :
 
 [https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985](https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985)
 
@@ -190,9 +193,25 @@ Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
 
 ### D. Jury 
 
-En cours de composition
+- **Gilles Tauzin** - Délégué à la Transformation Numérique - DGFiP 
+*Président du jury*
 
-### D. Critères d'évaluation
+- **Su Yang** - Responsable du Pôle Données - DTNum/DGFiP
+
+- **Pr. Salima Benbernou** - Professeur des Universités - Paris Descartes
+
+- **Guillaume Coldre** - Administrateur Ministériel des Données - Bercy Hub / MEFR
+
+- **Nicolas Truet** - Fondateur de Finestia
+
+- **Thomas Lefebvre** - VP Data Science - MeilleursAgents
+
+- **Ahlam Narham** - Responsable Data Visualisations - DTNum / DGFiP
+
+- **Xuan-Son Nguyen** - Adjoint au responsable du Pôle Données - DTNum / DGFiP
+
+
+### E. Critères d'évaluation
 
 Le Jury sera particulièrement attentif aux éléments suivants :
 
@@ -214,7 +233,7 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 - Facilité d’utilisation
 - Design de l’information
 
-### E. Récompenses
+### F. Récompenses
 
 > 🥇 **1er prix : 3000€ pour l’équipe**
 > 
