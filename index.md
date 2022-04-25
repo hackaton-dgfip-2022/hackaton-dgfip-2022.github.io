@@ -1,7 +1,7 @@
 ![Logo du hackaton](/docs/assets/images/banniere_hackaton_deadline.jpg)
 
 >
-> ### :information_source: MAJ 25/04
+> ### MAJ 25/04
 > ## Les inscriptions sont prolongées jusqu'au Vendredi 29 Avril 2022 et la fin du concours au 22 Mai
 >
 
