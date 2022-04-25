@@ -1,12 +1,13 @@
-![Logo du hackaton](/docs/assets/images/banniere_hackaton_deadline.jpeg)
+![Logo du hackaton](/docs/assets/images/banniere_hackaton_deadline.jpg)
 
-```diff
-+ /!\ Inscriptions prolongées jusqu'au Vendredi 29 Avril 2022 /!\ 
-```
+>
+> ### :information_source: MAJ 25/04
+> ## Les inscriptions sont prolongées jusqu'au Vendredi 29 Avril 2022 et la fin du concours au 22 Mai
+>
 
 ### Bonjour à tous 👋
 
-La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 29 avril au 15 mai 2022.
+La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra du 29 avril au 22 mai 2022.
 Les étudiants des meilleures écoles d’ingénieurs et universités françaises sont invités à concourir.
 
 Ce document vous donne toutes les informations pratiques :
@@ -173,8 +174,8 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
 ### B. Calendrier détaillé
 
 - Inscriptions jusqu'au 29 Avril
-- Rendu des projets le 15 Mai
-- Délibérations du jury le 27 Mai
+- Rendu des projets le 22 Mai
+- Délibérations du jury le 26 Mai
 - Restitution pour les lauréats au cour d'un événement OpenData à Bercy le 3 Juin 
 
 ### C. Inscription
