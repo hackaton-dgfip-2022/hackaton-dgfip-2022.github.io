@@ -17,7 +17,6 @@ Ce document vous donne toutes les informations pratiques :
 - Récompenses : + de 4 000€, mise en relations avec des experts de la data…
 
 > [RÈGLEMENT](https://github.com/hackaton-dgfip-2022/hackaton-dgfip-2022.github.io/blob/main/R%C3%A8glement.md)
-___
 
 ## I. Qui sommes-nous ?
 
