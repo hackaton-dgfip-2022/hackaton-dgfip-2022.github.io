@@ -16,8 +16,6 @@ Ce document vous donne toutes les informations pratiques :
 - Conditions de participation
 - Récompenses : + de 4 000€, mise en relations avec des experts de la data…
 
-> [RÈGLEMENT](https://github.com/hackaton-dgfip-2022/hackaton-dgfip-2022.github.io/blob/main/R%C3%A8glement.md)
-
 ## I. Qui sommes-nous ?
 
 La DGFiP participe à la gestion des finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
