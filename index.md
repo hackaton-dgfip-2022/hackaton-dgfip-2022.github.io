@@ -213,8 +213,15 @@ Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
 
 - **Xuan-Son Nguyen** - Adjoint au responsable du Pôle Données - DTNum / DGFiP
 
+### E. Calendrier détaillé
 
-### E. Critères d'évaluation
+- Date limite de dépôt des inscriptions : 29 Avril 2022 à 23h59
+- Date limite de dépôt des projets : 22 Mai 2022 à 23h59
+- Jury de sélection des lauréats : 26 Mai 2022
+- Événement Open Data DGFiP : 3 Juin 2022
+
+
+### F. Critères d'évaluation
 
 Le Jury sera particulièrement attentif aux éléments suivants :
 
@@ -236,7 +243,7 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 - Facilité d’utilisation
 - Design de l’information
 
-### F. Récompenses
+### G. Récompenses
 
 > 🥇 **1er prix : 3000€ pour l’équipe**
 > 
@@ -254,12 +261,13 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 ___
 
 
-## IV. Contact
+## IV. Contact et Réglement
 
 > Des questions sur l’appel à projets ? Besoin d’informations complémentaires ? 
 > 
 > **Contactez-nous à : [dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)**
 
+> **Consulter le [réglement](https://github.com/hackaton-dgfip-2022/hackaton-dgfip-2022.github.io/blob/main/R%C3%A8glement.md)**
 
 ___
 
