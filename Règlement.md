@@ -28,17 +28,17 @@ L’Appel à Projet Open Data est annoncé par l’envoi d’une présentation a
 
 ### Article 4 – Conditions et modalités de participation à l'appel à projet :
 
-### 4.1 – Conditions d’inscription à l’appel à projet :
+#### 4.1 – Conditions d’inscription à l’appel à projet :
 
 L’appel à projet est ouvert à tous les étudiants des établissements français d'enseignement supérieur établis sur le territoire national, tels que listés sur la page https://www.campusfrance.org/fr/etablissements-enseignement-superieur-France , âgés de dix-huit (18) ans minimum.
 
 Les candidatures ne remplissant pas ces conditions pourront se voir proposer de concourir hors compétition. 
 
-### 4.2 - Participation hors compétition
+#### 4.2 - Participation hors compétition
 
 Les équipes qui acceptent de concourir hors compétition renoncent au versement des récompenses listées à l'article **7.1** infra. Elles restent liées par les autres termes du présent règlement, qui demeurent inchangés.  
 
-### 4.3 - Modalités d'inscription 
+#### 4.3 - Modalités d'inscription 
 
 Pour participer au concours, les candidats devront obligatoirement renseigner le formulaire disponible à l'adresse
 
