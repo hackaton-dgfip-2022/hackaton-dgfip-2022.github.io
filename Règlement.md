@@ -30,7 +30,15 @@ L’Appel à Projet Open Data est annoncé par l’envoi d’une présentation a
 
 ### 4.1 – Conditions d’inscription à l’appel à projet :
 
-L’appel à projet est ouvert à tous les étudiants des écoles ciblées, âgés de dix-huit (18) ans minimum. La participation à l’Appel à Projet Open Data de la DGFiP est gratuite.
+L’appel à projet est ouvert à tous les étudiants des établissements français d'enseignement supérieur établis sur le territoire national, tels que listés sur la page https://www.campusfrance.org/fr/etablissements-enseignement-superieur-France , âgés de dix-huit (18) ans minimum.
+
+Les candidatures ne remplissant pas ces conditions pourront se voir proposer de concourir hors compétition. 
+
+### 4.2 - Participation hors compétition
+
+Les équipes qui acceptent de concourir hors compétition renoncent au versement des récompenses listées à l'article **7.1** infra. Elles restent liées par les autres termes du présent règlement, qui demeurent inchangés.  
+
+### 4.3 - Modalités d'inscription 
 
 Pour participer au concours, les candidats devront obligatoirement renseigner le formulaire disponible à l'adresse
 
@@ -137,7 +145,9 @@ Le jury de l’Appel à Projet Open Data de la DGFiP se réserve le droit d'excl
 - non conformes au thème de l’appel à projet;
 - reçus après la date de clôture annoncée.
 
-Les équipes lauréates s'engagent à présenter leur projet au cours d'un "évènement OpenData DGFiP" qui se tiendra le 3 Juin 2022.
+Les équipes lauréates s'engagent à présenter leur projet au cours d'un "évènement OpenData DGFiP" qui se tiendra le 3 Juin 2022. 
+
+#### 7.1 - Récompenses
 
 Les trois équipes lauréates de l’appel à projet recevront les lots désignés ci-après :
 
@@ -263,7 +273,7 @@ Si vous estimez que le traitement de vos données à caractère personnel n'est 
 
 La participation à cet Appel à Projet Open Data implique l’acceptation pleine et entière des modalités énoncées dans le présent règlement.
 
-L'inscription d'une équipe vaut acceptation du présent réglement par l'ensemble de ses membres.
+L'inscription d'une équipe vaut acceptation du présent réglement par l'ensemble de ses membres. 
 
 L’acceptation du règlement de l’appel à projet vaut pour la création que le participant soumettra.
 
