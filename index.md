@@ -291,7 +291,7 @@ Le [Markdown](https://fr.wikipedia.org/wiki/Markdown) est un langage de balisage
 
 Il est idéal pour rédiger de la documentation. [Cette page](https://www.markdownguide.org/basic-syntax) vous donne toutes les informations pour vous familiariser avec la syntaxe Markdown.
 
-PROTIP: Le contenu du fichier [README.md](http://readme.md/) à la racine de votre dépôt Git est affiché sur la page d'accueil de votre repository dans l'interface web. Vous êtes bien entendus libres de manipuler ce fichier à votre convenance.
+> Astuce: Le contenu du fichier [README.md](http://readme.md/) à la racine de votre dépôt Git est affiché sur la page d'accueil de votre repository dans l'interface web. Vous êtes bien entendus libres de manipuler ce fichier à votre convenance.
 C'est le point d'entrée de votre projet pour une personne extérieure à l'équipe, apportez-lui une attention particulière ;-)
 
 #### 4. Limitation du stockage des repo à 500 mo
