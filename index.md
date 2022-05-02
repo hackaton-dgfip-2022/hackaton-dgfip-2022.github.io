@@ -272,4 +272,40 @@ ___
 
 ## V. FAQ
 
-À venir
+#### 1. Que doivent-contenir les soumissions ?
+
+Votre rendu devra *a minima* contenir les éléments suivants :
+
+- L'ensemble du code source produit pour parvenir à votre solution.
+- Un document de synthèse au format PDF (max 20 pages), Markdown ou vidéo (max 3 minutes) contenant
+    - une problématique explicite sous la forme d'une question
+    - Une explication de la démarche poursuivie pour répondre au problème identifié
+    - Un bref descriptif de la solution mise en oeuvre pour y répondre
+- Une documentation technique au format Markdown ou PDF contenant
+    - Une présentation étayée des choix techniques retenus si pertinent
+    - Les instructions nécessaires à l'installation et à la reproduction de la solution.
+    - La liste des sources de données exploitée s, leur url, licence, et les mentions légales relatives à leur réutilisation si pertinent.
+
+#### 2. Premiers pas sur GitHub
+
+Vous n'êtes pas familier avec [Git](https://fr.wikipedia.org/wiki/Git) ? Pas de soucis, vous trouverez [ici](https://www.w3schools.com/git/default.asp?remote=github) toutes les ressources dont vous aurez besoin pour vous approprier cet outil.
+
+#### 3. Premiers pas avec Markdown
+
+Le [Markdown](https://fr.wikipedia.org/wiki/Markdown) est un langage de balisage léger permettant d'offrir une syntaxe facile à lire et à écrire, pouvant être facilement interprété en HTML. Il concerne les fichiers ayant l'extension ".md".
+
+Il est idéal pour rédiger de la documentation. [Cette page](https://www.markdownguide.org/basic-syntax) vous donne toutes les informations pour vous familiariser avec la syntaxe Markdown.
+
+PROTIP: Le contenu du fichier [README.md](http://readme.md/) à la racine de votre dépôt Git est affiché sur la page d'accueil de votre repository dans l'interface web. Vous êtes bien entendus libres de manipuler ce fichier à votre convenance.
+C'est le point d'entrée de votre projet pour une personne extérieure à l'équipe, apportez-lui une attention particulière ;-)
+
+#### 4. Limitation du stockage des repo à 500 mo
+
+La taille de stockage des repositories GitHub est limitée à 500 Mo.
+
+**Les ensembles de données que vous utilisez ne doivent pas être téléversés (”uploadés”) sur votre dépôt GitHub.**
+
+Vous pouvez créer un fichier `.gitignore` à la racine de votre dépôt local pour lister les répertoires de votre repository qui ne doivent pas être uploadés.
+
+Toutes les infos nécessaires sur le fichier `.gitignore` et son utilisation sont accessibles [ici](https://www.w3schools.com/git/git_ignore.asp?remote=github).
+
