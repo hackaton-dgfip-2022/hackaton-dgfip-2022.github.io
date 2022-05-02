@@ -311,7 +311,7 @@ La taille de stockage des repositories GitHub est limitée à 500 Mo.
 > Les ensembles de données que vous utilisez ne doivent pas être téléversés (”uploadés”) sur votre dépôt GitHub
 > 
 
-Vous pouvez créer un fichier `.gitignore` à la racine de votre dépôt local pour lister les répertoires de votre repository qui ne doivent pas être uploadés.
+Vous pouvez créer un fichier `.gitignore` à la racine de votre dépôt local pour lister les fichiers et répertoires de votre repository qui ne doivent pas être uploadés.
 
 Toutes les infos nécessaires sur le fichier `.gitignore` et son utilisation sont accessibles [ici](https://www.w3schools.com/git/git_ignore.asp?remote=github).
 
