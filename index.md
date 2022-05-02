@@ -267,7 +267,7 @@ ___
 
 ## V. FAQ
 
-#### 1. Que doivent-contenir les soumissions ?
+### 1. Que doivent-contenir les soumissions ?
 
 Votre rendu devra *a minima* contenir les éléments suivants :
 
@@ -281,24 +281,35 @@ Votre rendu devra *a minima* contenir les éléments suivants :
     - Les instructions nécessaires à l'installation et à la reproduction de la solution.
     - La liste des sources de données exploitée s, leur url, licence, et les mentions légales relatives à leur réutilisation si pertinent.
 
-#### 2. Premiers pas sur GitHub
+### 2. Premiers pas sur GitHub
 
-Vous n'êtes pas familier avec [Git](https://fr.wikipedia.org/wiki/Git) ? Pas de soucis, vous trouverez [ici](https://www.w3schools.com/git/default.asp?remote=github) toutes les ressources dont vous aurez besoin pour vous approprier cet outil.
+Vous n'êtes pas familier avec Git ? 
 
-#### 3. Premiers pas avec Markdown
+Découvrez ce qu'est Git sur sa page Wikipedia en français - https://fr.wikipedia.org/wiki/Git
 
-Le [Markdown](https://fr.wikipedia.org/wiki/Markdown) est un langage de balisage léger permettant d'offrir une syntaxe facile à lire et à écrire, pouvant être facilement interprété en HTML. Il concerne les fichiers ayant l'extension ".md".
+De nombreux tutoriels gratuits sont disponibles pour vous former à cet outil. Liste non exhaustive : 
+- Sur le site du W3C (en anglais) https://www.w3schools.com/git/default.asp?remote=github 
+- Sur OpenClassrooms (en français) https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github
+
+### 3. Premiers pas avec Markdown
+
+Le Markdown est un langage de balisage léger permettant d'offrir une syntaxe facile à lire et à écrire, pouvant être facilement interprété en HTML. Il concerne les fichiers ayant l'extension ".md". 
+
+Retrouvez plus d'information sur ce langage sur la page Wikipédia qui lui est dédiée
+https://fr.wikipedia.org/wiki/Markdown
 
 Il est idéal pour rédiger de la documentation. [Cette page](https://www.markdownguide.org/basic-syntax) vous donne toutes les informations pour vous familiariser avec la syntaxe Markdown.
 
 > Astuce: Le contenu du fichier [README.md](http://readme.md/) à la racine de votre dépôt Git est affiché sur la page d'accueil de votre repository dans l'interface web. Vous êtes bien entendus libres de manipuler ce fichier à votre convenance.
 C'est le point d'entrée de votre projet pour une personne extérieure à l'équipe, apportez-lui une attention particulière ;-)
 
-#### 4. Limitation du stockage des repo à 500 mo
+### 4. Limitation du stockage des repo à 500 mo
 
 La taille de stockage des repositories GitHub est limitée à 500 Mo.
 
-**Les ensembles de données que vous utilisez ne doivent pas être téléversés (”uploadés”) sur votre dépôt GitHub.**
+> ⚠️ 
+> Les ensembles de données que vous utilisez ne doivent pas être téléversés (”uploadés”) sur votre dépôt GitHub
+> 
 
 Vous pouvez créer un fichier `.gitignore` à la racine de votre dépôt local pour lister les répertoires de votre repository qui ne doivent pas être uploadés.
 
