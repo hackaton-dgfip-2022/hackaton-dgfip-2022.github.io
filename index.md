@@ -289,7 +289,7 @@ Découvrez ce qu'est Git sur sa page Wikipedia en français - https://fr.wikiped
 
 De nombreux tutoriels gratuits sont disponibles pour vous former à cet outil. Liste non exhaustive : 
 - Sur le site du W3C (en anglais) [https://www.w3schools.com/git/default.asp?remote=github](https://www.w3schools.com/git/default.asp?remote=github)
-- Sur OpenClassrooms (en français) [https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github](**https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
+- Sur OpenClassrooms (en français) [https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github)
 
 ### 3. Premiers pas avec Markdown
 
