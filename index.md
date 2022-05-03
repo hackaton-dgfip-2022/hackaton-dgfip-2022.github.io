@@ -285,7 +285,7 @@ Votre rendu devra *a minima* contenir les éléments suivants :
 
 Vous n'êtes pas familier avec Git ? 
 
-Découvrez ce qu'est Git sur sa page Wikipedia en français - https://fr.wikipedia.org/wiki/Git
+Découvrez ce qu'est Git sur sa page Wikipedia en français - [https://fr.wikipedia.org/wiki/Git](https://fr.wikipedia.org/wiki/Git)
 
 De nombreux tutoriels gratuits sont disponibles pour vous former à cet outil. Liste non exhaustive : 
 - Sur le site du W3C (en anglais) [https://www.w3schools.com/git/default.asp?remote=github](https://www.w3schools.com/git/default.asp?remote=github)
@@ -313,5 +313,5 @@ La taille de stockage des repositories GitHub est limitée à 500 Mo.
 
 Vous pouvez créer un fichier `.gitignore` à la racine de votre dépôt local pour lister les fichiers et répertoires de votre repository qui ne doivent pas être uploadés.
 
-Toutes les infos nécessaires sur le fichier `.gitignore` et son utilisation sont accessibles [ici](https://www.w3schools.com/git/git_ignore.asp?remote=github).
+Toutes les infos nécessaires sur le fichier `.gitignore` et son utilisation sont accessibles à cette adresse [https://www.w3schools.com/git/git_ignore.asp?remote=github](https://www.w3schools.com/git/git_ignore.asp?remote=github).
 
