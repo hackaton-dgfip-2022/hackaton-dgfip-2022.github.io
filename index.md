@@ -202,10 +202,6 @@ Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
 
 - **Thomas Lefebvre** - VP Data Science - MeilleursAgents
 
-- **Ahlam Narham** - Responsable Data Visualisations - DTNum / DGFiP
-
-- **Xuan-Son Nguyen** - Adjoint au responsable du Pôle Données - DTNum / DGFiP
-
 ### E. Calendrier détaillé
 
 - Date limite de dépôt des inscriptions : 29 Avril 2022 à 23h59
